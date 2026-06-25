@@ -288,3 +288,173 @@
 .card1 img {
   margin-top: 25px;
 }
+
+
+
+
+
+.sec7 {
+  width: 85%;
+
+  margin: auto;
+  margin-top: 100px;
+  display: flex;
+}
+
+.p2 {
+  font-size: 16px;
+  color: #424f7b;
+  font-weight: 500;
+}
+
+.sec7left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sec7left h1 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #192252;
+  margin-top: 10px;
+}
+
+.p3 {
+  font-size: 18px;
+  color: #848fac;
+  width: 50%;
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+
+.aaa {
+  display: flex;
+  align-items: center;
+}
+.a1 {
+  display: flex;
+  width: 90px;
+  text-decoration: none;
+  font-size: 16px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-right: 32px;
+  padding-left: 32px;
+  background-color: #0e1734;
+  color: white;
+  border-radius: 4px;
+}
+
+.a2 {
+  font-size: 16px;
+  text-decoration: none;
+  color: #0e1734;
+  margin-left: 20px;
+}
+
+.sec7right {
+  width: 650px;
+}
+
+.one {
+  display: flex;
+  padding: 20px;
+  height: 50px;
+  background-color: white;
+  align-items: center;
+  border-radius: 4px;
+  flex-wrap: wrap;
+  box-shadow: 0px 0px 10px gray;
+}
+
+.one img {
+  width: 40px;
+  height: 40px;
+}
+
+.one h3 {
+  font-size: 24px;
+  margin-top: 5px;
+  margin-right: 130px;
+  color: #424f7b;
+}
+
+.im3 {
+  position: absolute;
+  left: 1317px;
+  width: 10px;
+  height: 10px;
+}
+
+.two {
+  display: flex;
+  padding: 20px;
+
+  background-color: white;
+  align-items: center;
+  border-radius: 4px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 10px gray;
+}
+
+.two img {
+  width: 40px;
+  height: 40px;
+}
+
+.two h3 {
+  font-size: 24px;
+  margin-top: 5px;
+  margin-right: 130px;
+  color: #424f7b;
+}
+
+.im4 {
+  position: absolute;
+  left: 1317px;
+  width: 10px;
+  height: 10px;
+  margin-bottom: 63px;
+}
+
+.two p {
+  width: 93%;
+  padding-top: 20px;
+  font-size: 18px;
+  color: #848fac;
+}
+
+.three {
+  display: flex;
+  padding: 20px;
+  height: 50px;
+  background-color: white;
+  align-items: center;
+  border-radius: 4px;
+  flex-wrap: wrap;
+  box-shadow: 0px 0px 10px gray;
+}
+
+.three img {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1320px;
+}
+
+.three h3 {
+  font-size: 24px;
+  margin-top: 5px;
+  margin-right: 130px;
+  color: #424f7b;
+}
+
+.im3 {
+  position: absolute;
+  left: 1317px;
+  width: 10px;
+  height: 10px;
+}
