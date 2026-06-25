@@ -149,3 +149,37 @@
   width: 151px;
   margin-top: 40px;
 }
+
+
+
+
+.sec4 {
+  width: 85%;
+  margin: auto;
+  margin-top: 100px;
+  display: flex;
+}
+
+.sec4left {
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sec4left h1 {
+  font-size: 36px;
+  color: #192252;
+  font-weight: 600;
+}
+
+.sec4left p {
+  margin-top: 25px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #848fac;
+}
+
+.sec4right {
+  margin-left: 150px;
+}
