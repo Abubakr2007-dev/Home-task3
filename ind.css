@@ -183,3 +183,36 @@
 .sec4right {
   margin-left: 150px;
 }
+
+
+
+
+.sec5 {
+  display: flex;
+  width: 85%;
+
+  margin: auto;
+  margin-top: 35px;
+}
+
+.sec5right {
+  width: 43%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+}
+
+.sec5right h1 {
+  font-size: 36px;
+  color: #192252;
+  font-weight: 600;
+}
+
+.sec5right p {
+  margin-top: 25px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #848fac;
+  line-height: 25px;
+}
