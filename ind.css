@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 85%;
+  margin: auto;
+  padding: 25px;
+}
+
+.Starthead h1 {
+  font-size: 32px;
+  color: #192252;
+  font-weight: 600;
+}
+
+.Centrhead {
+  display: flex;
+  gap: 35px;
+}
+
+.Centrhead p {
+  font-size: 16px;
+  font-weight: 500;
+  color: #192252;
+}
+
+.endhead button {
+  font-size: 16px;
+  color: white;
+  background-color: #0e1734;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+  border-radius: 6px;
+}
+
+
